@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Pick your title </title>
+<style type="text/css"><!-- THIS IS THE CODE YOU WANT -->
+* {
+    scrollbar-color: #c630a1 #19a3d1;
+}
+</style><!-- ITS END -->
+</head>
+<body>
+</body>
+</html>
